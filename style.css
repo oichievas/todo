@@ -1,0 +1,10 @@
+.parent{
+    position: relative;
+}
+
+.abs{
+    position: absolute;
+    top: 0px;
+    z-index: 999;
+    left: 20%;
+}
