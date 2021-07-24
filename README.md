@@ -1,2 +1,2 @@
-# todoList
+# todo
 # todo
